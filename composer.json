@@ -1,5 +1,5 @@
 {
-    "name": "stepanenko3/nova-settings",
+    "name": "elsayed85/nova-settings",
     "description": "This Laravel Nova settings tool based on env, using nativ nova fields and resources",
     "keywords": [
       "laravel",
@@ -9,7 +9,6 @@
     "license": "MIT",
     "require": {
         "php": ">=8.0",
-        "laravel/nova": "^4.0",
         "spatie/laravel-activitylog": "^4.4.0"
     },
     "repositories": [
